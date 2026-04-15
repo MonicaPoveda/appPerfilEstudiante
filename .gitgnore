@@ -1,22 +1,6 @@
-# archivos de android studio
 .idea/
-*.iml
-
-# build
-/build
-/app/build
-
-# gradle cache
 .gradle/
-
-# kotlin
-.kotlin/
-
-# local config (contiene rutas del pc)
+build/
+app/build/
 local.properties
-
-# logs
-*.log
-
-# archivos temporales
-*.tmp
+*.iml
